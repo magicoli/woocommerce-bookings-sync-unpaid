@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:     WooCommerce Bookings - Sync unpaid bookings with Google Calendar
+ * Plugin Name:     WooCommerce Bookings - Include unpaid bookings in Google Calendar sync
  * Plugin URI:      PLUGIN SITE HERE
  * Description:     Add unpaid bookings to Google Agenda sync (default sync only completed, confirmed and paid)
  * Author:          Magiiic

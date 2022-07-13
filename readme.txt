@@ -1,6 +1,6 @@
-=== WooCommerce Bookings - Sync unpaid bookings with Google Calendar ===
+=== WooCommerce Bookings - Include unpaid bookings in Google Calendar sync ===
 Contributors: magicoli69
-Donate link: https://example.com/
+Donate link: https://magiiic.com/donate/
 Tags: comments, spam
 Requires at least: 4.5
 Tested up to: 6.0
@@ -13,7 +13,7 @@ Add unpaid bookings to Google Calendar sync (default only syncs completed, confi
 
 == Description ==
 
-Allow including unpaid bookings in Google Calendar synchronization, to ensure bookings waiting for payments are already blocked in external calendars.
+Include unpaid bookings in Google Calendar synchronization, to ensure bookings waiting for payments are already blocked in external calendars.
 
 Useful if your policy is to set an option for booking requests, or if you collect payments later.
 

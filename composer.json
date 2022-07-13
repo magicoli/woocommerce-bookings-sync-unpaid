@@ -1,6 +1,6 @@
 {
     "name": "magicoli/woocommerce-bookings-sync-unpaid",
-    "description": "WooCommerce Bookings - Sync unpaid bookings with Google Calendar",
+    "description": "WooCommerce Bookings - Include unpaid bookings in Google Calendar sync",
     "type": "wordpress-plugin",
     "license": "AGPL-V3",
     "authors": [
