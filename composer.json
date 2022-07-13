@@ -1,0 +1,13 @@
+{
+    "name": "magicoli/woocommerce-bookings-sync-unpaid",
+    "description": "WooCommerce Bookings - Sync unpaid bookings with Google Calendar",
+    "type": "wordpress-plugin",
+    "license": "AGPL-V3",
+    "authors": [
+        {
+            "name": "Olivier van Helden",
+            "email": "olivier@van-helden.net"
+        }
+    ],
+    "require": {}
+}
